@@ -44,9 +44,9 @@ templates folder that contains 2 HTML files for the app front-end: go.html and m
 
 
 
-![Alt text](https://github.com/GuptaHimanshu15/Disaster-Response-Analysis/blob/master/Screenshot%20(29).png)
+![Alt text](https://github.com/VenkteshSahu22/Disaster-Response-Pipelines/blob/master/Screenshot%20(29).png)
 
 
-![Alt text](https://github.com/GuptaHimanshu15/Disaster-Response-Analysis/blob/master/Screenshot%20(28).png)
+![Alt text](https://github.com/VenkteshSahu22/Disaster-Response-Pipelines/blob/master/Screenshot%20(28).png)
 
-![Alt text](https://github.com/GuptaHimanshu15/Disaster-Response-Analysis/blob/master/Screenshot%20(27).png)
+![Alt text](https://github.com/VenkteshSahu22/Disaster-Response-Pipelines/blob/master/Screenshot%20(27).png)
