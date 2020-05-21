@@ -41,7 +41,7 @@ templates folder that contains 2 HTML files for the app front-end: go.html and m
 
 3. Go to http://0.0.0.0:3001/
 
-####  The main findings of the code can be found at the [repo](https://github.com/VenkteshSahu22/Disaster-Response-Pipelines/) available.
+####  The main findings of the code can be found at the [repo](https://github.com/VenkteshSahu22/Disaster-Response-Pipelines/) available here.
 
 
 ### Screenshots
